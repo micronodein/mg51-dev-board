@@ -1,6 +1,6 @@
 # Micronode MG51 Dev Board
 
-A compact 8051 development board built around the Nuvoton **MS51FB9AE** (TSSOP-20), designed and manufactured in India by [Micronode LLP](https://micronode.in), Pune.
+A compact 8051 development board built around the Nuvoton **MG51FB9AE** (TSSOP-20), designed and manufactured in India by [Micronode LLP](https://micronode.in), Pune.
 
 <img src="Images/MN-MG51-DEV.jpg" width="450">
 
@@ -10,7 +10,7 @@ The Nuvoton 1T 8051 is widely used in production — LED lighting and drivers, a
 
 ## Features
 
-- Nuvoton MS51FB9AE 1T 8051 microcontroller, TSSOP-20
+- Nuvoton MG51FB9AE 1T 8051 microcontroller, TSSOP-20
 - Board size: **24.1 x 32 mm**
 - Powered through the header pins — accepts **5 V or 12 V** input
 - **USER button** on `P1.4`
@@ -32,7 +32,7 @@ This is a bare development board. Be aware before you buy:
 
 | | |
 |---|---|
-| MCU | Nuvoton MS51FB9AE, TSSOP-20 |
+| MCU | Nuvoton MG51FB9AE, TSSOP-20 |
 | Core | 1T 8051 |
 | Operating voltage (MCU) | 5 V (from on-board regulator) |
 | Input voltage | 5 V or 12 V via header pins |
