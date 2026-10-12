@@ -17,7 +17,7 @@ The Nuvoton 1T 8051 is widely used in production — LED lighting and drivers, a
 - **Blue user LED** on `P0.5`
 - **Red power LED**
 - All usable I/O broken out on 2.54 mm headers, breadboard friendly
-- Programmed over standard Nuvoton ISP
+- Programmed over standard Nuvoton ICP
 - Works with **SDCC** (open source) and **Keil C51**
 
 ## What's not on the board
